@@ -11,6 +11,9 @@ jupyter = "^1.0.0"
 pandas = "^2.2.2"
 matplotlib = "^3.9.2"
 numpy = "^2.1.0"
+python-dotenv = "^1.0.1"
+pg8000 = "^1.31.2"
+sqlalchemy = "^2.0.32"
 
 
 [build-system]
