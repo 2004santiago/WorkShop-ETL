@@ -3,7 +3,7 @@ First delivery of ETL
 
 ---
 ## Context
-This project seeks to provide a solution to the activity called WorkShop, which consists of the cleaning, analysis and visualization of a [csv](Data csv/candidates.csv) with synthetic candidate data.
+This project seeks to provide a solution to the activity called WorkShop, which consists of the cleaning, analysis and visualization of a csv with synthetic candidate data.
 
 This work involved the creation of new columns for the dataframe, graphic visualizations to better understand the data and the use of tools such as Python and jupyter Notebook.
 
