@@ -11,8 +11,8 @@ To be considered a hired candidate must have a score equal or higher than 7 in t
 
 Here is the dashboard with the main graphs made in Power BI. 
 
-![Dasboard by Power BI](Dashboard/Dashboard.pdf)
+![Dasboard by Power BI](images/Dashboard.png)
 
 ---
 ## Workflow
-![workflow](Dashboard/Workflow.png)
+![workflow](images/Workflow.png)
